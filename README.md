@@ -9,7 +9,8 @@ To make easier for content creators to sell there merchandise, and for customers
 Deployment can be viewed here : https://black-wave-0282d9d00.5.azurestaticapps.net
 
 For deploying a static webapp using Azure Static web app service we have to make a resource group in my case it was "MerchStore" and connect to github account in order to access repositories. Azure creates a github actions .yaml file in ".github/Workflows/ " which automatically detects a new commit and run a github actions workflow and the changes reflects on the actual website.
-# Video Link-  https://drive.google.com/file/d/1PltwXaAJtRk39USJ7x3-c0pPvW54HJrO/view?usp=sharing
+# Video Link-  
+https://drive.google.com/file/d/1PltwXaAJtRk39USJ7x3-c0pPvW54HJrO/view?usp=sharing
 
 # store
 # store
