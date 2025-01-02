@@ -12,5 +12,3 @@ For deploying a static webapp using Azure Static web app service we have to make
 # Video Link-  
 https://drive.google.com/file/d/1PltwXaAJtRk39USJ7x3-c0pPvW54HJrO/view?usp=sharing
 
-# store
-# store
